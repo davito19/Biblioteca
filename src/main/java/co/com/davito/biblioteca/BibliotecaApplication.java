@@ -1,4 +1,4 @@
-package co.com.davito.Biblioteca;
+package co.com.davito.biblioteca;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
